@@ -1,8 +1,8 @@
 /*
- * Here I will provide some info about how to use the code I have written here.
+ * Kinetic Robotics WS2811 LED Strip Control
+ * Written By Alex
  *
- * (i will write this later)
- *
+ * NOTE: Will be upgraded to WS2812B once we get the new LEDs.
  */
 
 //Include LED Library
