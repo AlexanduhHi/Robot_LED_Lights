@@ -1,3 +1,10 @@
+/*
+ * Here I will provide some info about how to use the code I have written here.
+ *
+ * (i will write this later)
+ *
+ */
+
 //Include LED Library
 #include <FastLED.h>
 
